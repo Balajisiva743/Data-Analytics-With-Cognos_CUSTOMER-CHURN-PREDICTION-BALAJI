@@ -1,2 +1,2 @@
-# Data-Analytics-With-Cognos_Website_TrafficAnalysis-BALAJI
+# Data-Analytics-With-Cognos-CUSTOMER CHURN PREDICTION-BALAJI
 IBM NAANMUDHALVAN
